@@ -1,0 +1,9 @@
+[user]
+	name = Sean
+	email = skasun@gmail.com
+[color]
+	ui = true
+[push]
+	default = matching
+[core]
+	editor = vim
