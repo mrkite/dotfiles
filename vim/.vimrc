@@ -3,7 +3,6 @@ filetype off
 
 call plug#begin('~/.vim/plugged')
 
-Plug 'gmarik/Vundle.vim'
 Plug 'pangloss/vim-javascript'
 Plug 'bitc/vim-bad-whitespace'
 Plug 'tpope/vim-fugitive'
