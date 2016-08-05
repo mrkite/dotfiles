@@ -12,6 +12,7 @@ Plug 'rust-lang/rust.vim'
 Plug 'ludovicchabant/vim-lawrencium'
 Plug 'scrooloose/syntastic'
 Plug 'leafgarland/typescript-vim'
+Plug 'fatih/vim-go'
 
 call plug#end()
 
@@ -29,3 +30,9 @@ set noshowmode
 let g:airline_powerline_fonts = 1
 let g:airline_theme = "murmur"
 let g:typescript_indent_disable = 1
+let g:go_highlight_functions = 1
+let g:go_highlight_methods = 1
+let g:go_highlight_fields = 1
+let g:go_highlight_types = 1
+let g:go_highlight_operators = 1
+let g:go_highlight_build_constraints = 1
