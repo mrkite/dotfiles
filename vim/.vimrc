@@ -12,7 +12,6 @@ Plug 'rust-lang/rust.vim'
 Plug 'ludovicchabant/vim-lawrencium'
 Plug 'scrooloose/syntastic'
 Plug 'leafgarland/typescript-vim'
-Plug 'Quramy/tsuquyomi'
 Plug 'fatih/vim-go'
 
 call plug#end()
