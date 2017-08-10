@@ -80,8 +80,8 @@ macro index gs "<change-folder>=$my_sent<enter>"  "Go to Sent"
 macro index gd "<change-folder>=$my_drafts<enter>" "Go to Drafts"
 macro index gt "<change-folder>=$my_trash<enter>" "Go to Trash"
 
-macro index,pager A "<save-message>=Archives/2016<enter>" "Archive message"
-macro index ga "<change-folder>=Archives/2016<enter>" "Go to Archive"
+macro index,pager A "<save-message>=Archives/2017<enter>" "Archive message"
+macro index ga "<change-folder>=Archives/2017<enter>" "Go to Archive"
 
 # Index
 bind index <up>  previous-entry
