@@ -38,3 +38,4 @@ let g:go_highlight_operators = 1
 let g:go_highlight_build_constraints = 1
 let g:tsuquyomi_disable_quickfix = 1
 let g:syntastic_typescript_checkers = ['tsuquyomi']
+autocmd FileType * setlocal formatoptions-=c formatoptions-=r formatoptions -=o
