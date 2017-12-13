@@ -19,6 +19,9 @@ call plug#end()
 
 filetype plugin indent on
 
+let g:libertine_Pitch = 1
+colorscheme libertine
+
 
 setlocal tabstop=2
 setlocal shiftwidth=2
