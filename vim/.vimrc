@@ -10,7 +10,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'rust-lang/rust.vim'
 Plug 'ludovicchabant/vim-lawrencium'
-Plug 'scrooloose/syntastic'
+Plug 'dense-analysis/ale'
 Plug 'leafgarland/typescript-vim'
 Plug 'fatih/vim-go'
 
