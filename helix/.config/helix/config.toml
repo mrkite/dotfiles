@@ -4,6 +4,7 @@ theme = "everforest"
 line-number = "relative"
 mouse = false
 true-color = true
+soft-wrap.enable = true
 
 [editor.cursor-shape]
 insert = "bar"
