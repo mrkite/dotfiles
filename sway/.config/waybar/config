@@ -5,7 +5,7 @@
     // Choose the order of the modules
     "modules-left": ["sway/workspaces", "sway/mode"],
     "modules-center": ["sway/window"],
-    "modules-right": ["pulseaudio", "battery", "clock", "sway/language", "tray", "custom/power"],
+    "modules-right": ["pulseaudio", "battery", "clock", "tray", "custom/power"],
     "sway/workspaces": {
         "format": " {icon} ",
      },
@@ -36,6 +36,10 @@
             "default": ["", "", " "]
         },
         "on-click": "pavucontrol"
+    },
+    "sway/language": {
+        "format": "{flag} {variant}",
+        "menu": "right-click",
     },
     "custom/lock": {
         "tooltip": false,
