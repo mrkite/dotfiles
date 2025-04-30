@@ -1,0 +1,11 @@
+[window]
+decorations = "None"
+[scrolling]
+history = 0
+[font]
+normal = { family = "Fira Code", style = "Regular" }
+size = 8
+[selection]
+save_to_clipboard = true
+[terminal]
+shell = { program = "tmux", args = ["new", "-t", "main"] }
