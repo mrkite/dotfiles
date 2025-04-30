@@ -33,7 +33,7 @@
     "wireplumber": {
         // "scroll-step": 1, // %, can be a float
         "format": "{icon} {volume}%",
-        "format-muted": "",
+        "format-muted": "",
         "format-icons": {
             "default": ["", "", " "]
         },
