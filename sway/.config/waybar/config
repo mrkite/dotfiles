@@ -8,8 +8,10 @@
     "modules-right": ["custom/notification", "wireplumber", "battery", "clock", "tray", "custom/power"],
     "hyprland/workspaces": {
         "format": " {icon} ",
-		"active": "",
-		"default": ""
+        "format-icons": {
+    		"active": "",
+    		"default": ""
+        }
      },
     "tray": {
         "icon-size": 21,
