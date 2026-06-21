@@ -18,9 +18,3 @@ map alt+c copy_to_clipboard
 map alt+v paste_from_clipboard
 
 startup_session ./startup.conf
-
-
-# BEGIN_KITTY_THEME
-# Noctalia
-include current-theme.conf
-# END_KITTY_THEME

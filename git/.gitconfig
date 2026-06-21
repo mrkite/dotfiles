@@ -6,6 +6,6 @@
 [push]
 	default = matching
 [core]
-	editor = vim
+	editor = helix
 [init]
 	defaultBranch = main
