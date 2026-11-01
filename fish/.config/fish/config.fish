@@ -1,5 +1,8 @@
 set TERM screen-256color
 set IBUS_ENABLE_SYNC_MODE 1
+set -gx GTK_IM_MODULE fcitx
+set -gx QT_IM_MODULE fcitx
+set -gx XMODIFIERS '@im=fcitx'
 
 if status is-interactive
     source $HOME/.config/fish/conf.d/fishline-init.fish
