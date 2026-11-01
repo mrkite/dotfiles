@@ -4,7 +4,7 @@ ui_scale = 1.20
 [bar.default]
 center = [ "active_window" ]
 concave_edge_corners = true
-end = [ "media", "spacer_1", "tray", "notifications", "volume", "clock", "session" ]
+end = [ "media", "spacer_1", "tray", "notifications", "battery", "volume", "clock", "session" ]
 margin_edge = 0
 margin_ends = 0
 position = "bottom"
