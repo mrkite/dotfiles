@@ -1,6 +1,6 @@
 hl.config({
   input = {
-    accel_profile = "flat",
+    accel_profile = "adaptive",
     follow_mouse = 1,
     touchpad = {
       tap_to_click = false,
@@ -10,6 +10,6 @@ hl.config({
 
 hl.device({
   name = "synps/2-synaptics-touchpad",
-  sensitivity = 0.8
+  sensitivity = 1.0
 })
 
